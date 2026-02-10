@@ -57,12 +57,12 @@ Chaque dossier `DMk` correspond à un devoir maison donné au cours du semestre.
 Merci de respecter strictement la convention suivante :
 
 ```
-DMk_Nom_Prenom.ipynb
+DMk_Nom_Prenom.pdf
 ```
 
 Exemple :
 ```
-DM1_Dupont_Jean.ipynb
+DM1_Louadj_kahina.pdf
 ```
 
 ---
